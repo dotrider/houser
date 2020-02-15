@@ -1,0 +1,23 @@
+body {
+    background-color: #AFD4C0;
+    width: 100vw;
+    height: 100vh;
+}
+header {
+    background-color: #509872;
+    height: 75px;
+}
+
+.dashboard , .wizard {
+    background-color: #E5F4EC;
+    width: 60%;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 25px;
+    
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+

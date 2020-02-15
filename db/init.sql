@@ -1,0 +1,8 @@
+CREATE TABLE houses(
+houseId SERIAL PRIMARY KEY,
+name VARCHAR(40),
+address VARCHAR(75) NOT NULL,
+city VARCHAR(20) NOT NULL,
+state VARCHAR(10) NOT NULL,
+zipcode INT NOT NULL
+);
